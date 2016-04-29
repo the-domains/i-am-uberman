@@ -1,12 +1,13 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: null
 inLanguage: null
 keywords: []
 description: Chronicle. Two days to experiment.
-datePublished: '2016-04-29T05:07:45.570Z'
-dateModified: '2016-04-29T05:07:09.207Z'
+datePublished: '2016-04-29T05:08:06.013Z'
+dateModified: '2016-04-29T05:07:53.685Z'
 title: ...i am become uberman.
 author: []
 sourcePath: _posts/2016-04-29-i-am-become-uberman.md
@@ -18,8 +19,7 @@ publisher:
   url: null
   favicon: null
 starred: false
-url: i-am-become-uberman/index.html
-_type: Article
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/189bff8f-bb88-4f72-a5e0-013ae8edb211.png)
