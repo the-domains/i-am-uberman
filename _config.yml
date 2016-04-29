@@ -1,7 +1,7 @@
 name: i am uberman
 favicon: null
-layout_spectrum: 0.6406581364572048
-typography_spectrum: 0.2901974390260875
+layout_spectrum: 1
+typography_spectrum: 0.27342
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.33172309934161603
-  lightness: 0.8258465656545013
-  saturation: 0.9176154620945454
-  rhythmicContrast: 0.6009721509180963
+    - '#dadada'
+    - '#ffffff'
+    - '#000000'
+    - '#6a6a6a'
+    - '#a4a4a4'
+  brandStrength: 0.1875
+  lightness: 0.375
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
