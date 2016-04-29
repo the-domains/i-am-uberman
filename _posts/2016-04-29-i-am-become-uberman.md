@@ -5,10 +5,12 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Chronicle. Four.twenty-eight.twenty-sixteen. Two days to experiment.
-datePublished: '2016-04-29T04:55:12.933Z'
-dateModified: '2016-04-29T04:55:12.619Z'
+datePublished: '2016-04-29T05:02:37.440Z'
+dateModified: '2016-04-29T05:02:07.631Z'
 title: ...i am become uberman.
 author: []
+sourcePath: _posts/2016-04-29-i-am-become-uberman.md
+published: true
 authors: []
 publisher:
   name: null
@@ -16,13 +18,11 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-04-29-i-am-become-uberman.md
-published: true
 url: i-am-become-uberman/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c0ad99b5-e10c-4d47-a7c5-c1d68b1d2ffc.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/189bff8f-bb88-4f72-a5e0-013ae8edb211.png)
 
 # ...i am become uberman.
 
@@ -54,4 +54,4 @@ I will be stronger than you. Faster than you. Smarter than you. Happier than you
 -body  
 -Time
 
-...is what i shall be.
+.
