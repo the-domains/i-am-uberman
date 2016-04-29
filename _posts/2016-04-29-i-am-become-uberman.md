@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Chronicle. Four.twenty-eight.twenty-sixteen. Two days to experiment.
-datePublished: '2016-04-29T04:54:38.536Z'
-dateModified: '2016-04-29T04:54:21.288Z'
+datePublished: '2016-04-29T04:55:12.933Z'
+dateModified: '2016-04-29T04:55:12.619Z'
 title: ...i am become uberman.
 author: []
 authors: []
